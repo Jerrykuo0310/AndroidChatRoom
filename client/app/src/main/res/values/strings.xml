@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">A1_1155145805</string>
+    <string name="default_ChatRoom">DEFAULT CHATROOM</string>
+    <string name="chatRoom_1">CHATROOM 1</string>
+    <string name="chatRoom_2">CHATROOM 2</string>
+    <string name="send">SEND</string>
+    <string name="empty_detect">Empty message cannot be sent</string>
+</resources>
